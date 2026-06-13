@@ -11,4 +11,4 @@ Inspired by piebald turtles/tortoises
 ![Inspiration Image]
 
 ## Base Image from PoT modding discord channel
-![Base Image]
+![Base Image](https://github.com/JustPlainPeachy/Anodontosaurus-Piebald-Concept/blob/main/AnodontoLines.png)
